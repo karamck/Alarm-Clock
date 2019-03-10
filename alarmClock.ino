@@ -1,5 +1,4 @@
 #include <TimeLib.h>
-#include <TimeAlarms.h>
 
 const int buttonMode = 7;   //button for time set mode and alarm set mode
 const int buttonSet = 6;    //button to count, increment for alarm
